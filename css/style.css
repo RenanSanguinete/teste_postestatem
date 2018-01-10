@@ -1,0 +1,61 @@
+.lista-alterar,.lista-remover{
+  float: right;
+  margin: 3px;
+  padding: 5px;
+  text-align: center;  
+}
+.voltar{
+  float: left;
+  margin: 3px;
+  padding: 5px;
+  text-align: center;  
+}
+.bloco-lista-alunos{
+    margin-bottom: 10px;
+}
+.title-listar-alunos{
+    text-align: center;
+}
+.bloco-paginacao{
+    text-align: center;
+}
+.title-lista{
+    text-align: center;
+}
+.btn-principal{
+    text-align: center;
+}
+.bloco-filtrar{
+    margin-left: 5px;   
+}
+.texto-nome{
+    margin-right: 5px;
+    margin-top: 5px;
+}
+a.bloco-lista-alunos {
+    text-align: center;
+    display: block;
+    width: 100%;
+    text-decoration: none;
+    margin-bottom: 10px;
+    font-style: normal;
+    color: #000;
+    background-color: #f9f9f9;
+}
+a.bloco-lista-alunos:hover {
+    background-color: #ccc;
+}
+
+button.btn-resultado{
+    border: none !important;
+    width: 100% !important;
+    background: none !important;
+}
+
+.title-certificado{
+    text-align: center;
+    font-size: 20px;
+}
+.conteudo-certificado{
+    margin: 0 0 1px;
+}
